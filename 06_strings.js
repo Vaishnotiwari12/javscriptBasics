@@ -43,7 +43,7 @@ console.log(url.split('- '));
 
 
 
-//************AAJ KA GYAAN *******--------------------------->>>>
+//************AAJ KA GYAAN *******-----learn these things for interview--------------->>>>
 
 
 // /datatypes are based on memory allocation
