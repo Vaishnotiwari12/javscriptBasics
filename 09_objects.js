@@ -83,7 +83,7 @@ user[1].email
 console.log(instructor);
 
 // {
-//     "name" :"vaishno",f
+//     "name" :"vaishno",
 //     "coursename":"999",
 //     "price":"free"
 // }   
