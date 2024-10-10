@@ -47,15 +47,15 @@ const user=[
 
 
 user[1].email
-console.log(tinderUser);
+// console.log(tinderUser);
 
-console.log(Object.keys(tinderUser));
-console.log(Object.values(tinderUser));
+// console.log(Object.keys(tinderUser));
+// console.log(Object.values(tinderUser));
 
-console.log(Object.entries(tinderUser));
+// console.log(Object.entries(tinderUser));
 
 
-console.log(tinderUser.hasOwnProperty('isLogged'));
+// console.log(tinderUser.hasOwnProperty('isLogged'));
 
 
 //*********************AAJ KA GYAAN*********------>>>>>
@@ -70,5 +70,26 @@ console.log(tinderUser.hasOwnProperty('isLogged'));
 //let Obj4 = Object.assign(Obj1, Obj2); //Bad practice 
 // console.log(Obj1); //It make changes in target Object as well.
 
+ const course={
+    coursename:"Js in hindi",
+    price:"999",
+    courseInstructor:"Vaishnav"
+ }
+ //course.courseInstructor 
 
 
+// const  {courseInstructor:instructor}=course
+//console.log(courseInstructor);
+console.log(instructor);
+
+// {
+//     "name" :"vaishno",f
+//     "coursename":"999",
+//     "price":"free"
+// }   
+
+{
+    {}
+    {}
+    {}
+}
