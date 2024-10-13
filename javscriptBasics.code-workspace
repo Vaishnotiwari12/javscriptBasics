@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"uri": "vscode-remote://codespaces+potential-fishstick-g447jvj9pwxq39xxw/workspaces/javscriptBasics"
+		},
+		{
+			"uri": "vscode-remote://codespaces+potential-fishstick-g447jvj9pwxq39xxw/workspaces/javscriptBasics/02_Basic.js"
 		}
 	],
 	"remoteAuthority": "codespaces+potential-fishstick-g447jvj9pwxq39xxw",
