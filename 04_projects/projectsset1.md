@@ -43,6 +43,9 @@ buttons.forEach(function (button) {
 
 
 
+# Solution Code
+
+## Projects 2
 
 
 const form = document.querySelector('form');
@@ -67,7 +70,9 @@ form.addEventListener('submit', function (e) {
   }
 });
 
+# Solution Code
 
+## Projects 3
 
 
 const clock = document.getElementById('clock');
@@ -80,7 +85,9 @@ setInterval(function () {
 }, 1000);
 
 
+# Solution Code
 
+## Projects 4
 
 
 let randomNumber = parseInt(Math.random() * 100 + 1);
@@ -174,3 +181,33 @@ function newGame() {
     playGame = true;
   });
 }
+
+
+
+
+# Solution Code
+
+## Projects 5
+
+
+const insert = document.getElementById('insert');
+
+window.addEventListener('keydown', (e) => {
+  insert.innerHTML = `
+    <div class='color'>
+    <table>
+    <tr>
+      <th>Key</th>
+      <th>Keycode</th> 
+      <th>Code</th>
+    </tr>
+    <tr>
+      <td>${e.key === ' ' ? 'Space' : e.key}</td>
+      <td>${e.keyCode}</td> 
+      <td>${e.code}</td>
+    </tr>
+    
+  </table>
+    </div>
+  `;
+});
