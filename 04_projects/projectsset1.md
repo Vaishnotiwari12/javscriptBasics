@@ -10,11 +10,9 @@
 ## Projects 1
 
 ```javascript
+
+
 console.log("Vaishno")
-
-```
-
-
 
 console.log("vaishno")
 const buttons = document.querySelectorAll('.button');
@@ -40,6 +38,12 @@ buttons.forEach(function (button) {
     
   });
 });
+
+
+
+```
+
+
 
 
 
