@@ -210,9 +210,10 @@ function newGame() {
 ## Projects link
 
 [click here](https://stackblitz.com/edit/dom-project-chaiaurcode-1y1abc?file=5-keyboard%2Fchaiaurcode.js)
+
 ## Projects 5
 
-
+```Javascript
 const insert = document.getElementById('insert');
 
 window.addEventListener('keydown', (e) => {
@@ -235,7 +236,7 @@ window.addEventListener('keydown', (e) => {
   `;
 });
 
-
+```
 
 
 # Solution Code
