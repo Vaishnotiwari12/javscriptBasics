@@ -2,7 +2,7 @@
 # Projects releated to DOM
 
 ## Projects link
-[click here](https://techvaishno.com)
+[click here](https://stackblitz.com/edit/dom-project-chaiaurcode-apt83c?file=1-colorChanger%2Fchaiaurcode.js)
 
 
 # Solution Code
@@ -15,6 +15,7 @@
 console.log("Vaishno")
 
 console.log("vaishno")
+
 const buttons = document.querySelectorAll('.button');
 const body = document.querySelector('body');
 
@@ -43,13 +44,15 @@ buttons.forEach(function (button) {
 
 ```
 
-
-
-
-
 # Solution Code
 
+## Projects link
+
+[click here]()
+
 ## Projects 2
+
+``` Javascript 
 
 
 const form = document.querySelector('form');
@@ -73,6 +76,10 @@ form.addEventListener('submit', function (e) {
     results.innerHTML = `<span>${bmi}</span>`;
   }
 });
+
+```
+
+
 
 # Solution Code
 
