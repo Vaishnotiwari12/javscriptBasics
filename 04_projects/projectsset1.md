@@ -48,7 +48,7 @@ buttons.forEach(function (button) {
 
 ## Projects link
 
-[click here]()
+[click here](https://stackblitz.com/edit/dom-project-chaiaurcode-apt83c?file=2-BMICalculator%2Fchaiaurcode.js)
 
 ## Projects 2
 
