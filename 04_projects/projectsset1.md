@@ -103,8 +103,13 @@ setInterval(function () {
 
 # Solution Code
 
+## Projects link
+
+[click here](https://stackblitz.com/edit/dom-project-chaiaurcode-1y1abc?file=4-GuessTheNumber%2Fchaiaurcode.js)
+
 ## Projects 4
 
+``` Javascript 
 
 let randomNumber = parseInt(Math.random() * 100 + 1);
 
@@ -199,10 +204,12 @@ function newGame() {
 }
 
 
-
+```
 
 # Solution Code
+## Projects link
 
+[click here](https://stackblitz.com/edit/dom-project-chaiaurcode-1y1abc?file=5-keyboard%2Fchaiaurcode.js)
 ## Projects 5
 
 
