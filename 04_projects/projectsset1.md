@@ -82,9 +82,13 @@ form.addEventListener('submit', function (e) {
 
 
 # Solution Code
+## Projects link
+
+[click here](https://stackblitz.com/edit/dom-project-chaiaurcode-apt83c?file=3-DigitalClock%2Fchaiaurcode.js)
 
 ## Projects 3
 
+```Javascript 
 
 const clock = document.getElementById('clock');
 // const clock = document.querySelector('#clock')
@@ -95,6 +99,7 @@ setInterval(function () {
   clock.innerHTML = date.toLocaleTimeString();
 }, 1000);
 
+```
 
 # Solution Code
 
