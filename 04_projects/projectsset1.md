@@ -243,7 +243,7 @@ window.addEventListener('keydown', (e) => {
 
 ## Projects link
 
-[click here](https://stackblitz.com/edit/dom-project-chaiaurcode-e8hxs1?file=6-unlimitedColors%2Fchaiaurcode.js)
+[click here](https://stackblitz.com/edit/dom-project-chaiaurcode-ppdur7?file=6-unlimitedColors%2Fchaiaurcode.js)
 
 ## Projects 6
 
