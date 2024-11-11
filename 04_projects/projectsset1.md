@@ -241,12 +241,16 @@ window.addEventListener('keydown', (e) => {
 
 # Solution Code
 
+## Projects link
+
+[click here](https://stackblitz.com/edit/dom-project-chaiaurcode-e8hxs1?file=6-unlimitedColors%2Fchaiaurcode.js)
+
 ## Projects 6
 
 
+```Javascript
 
-
-/generate a random color
+//generate a random color
 
 const randomColor = function () {
   const hex = '0123456789ABCDEF';
@@ -275,3 +279,5 @@ const stopChangingColor = function () {
 document.querySelector('#start').addEventListener('click', startChangingColor);
 
 document.querySelector('#stop').addEventListener('click', stopChangingColor);
+
+```
