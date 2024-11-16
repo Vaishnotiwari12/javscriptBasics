@@ -1,5 +1,6 @@
 # javscriptBasics
-## projects in Js  [click here] (https://stackblitz.com/@Vaishnotiwari12)
+## projects link is given Below 
+[click here] (https://stackblitz.com/@Vaishnotiwari12)
 # My JavaScript Projects 🚀  
 
 I have built **6 JavaScript projects** that demonstrate my creativity and coding expertise. Each project showcases different functionalities and problem-solving approaches.  
